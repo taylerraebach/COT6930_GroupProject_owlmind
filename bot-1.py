@@ -33,11 +33,11 @@ if __name__ == '__main__':
     # TOKEN = config['TOKEN']
     
     ## Alternative: Hard-code your TOKEN here and remove the comment:
-    TOKEN = 'MTMzMTM0ODgxOTIxNjE3NTEzNA.GRNZTw.ZQ_ziXog14L4CPjtCdthCLYud6igG0IwF5NyVU'
+    TOKEN = 'insert bot token'
 
     # Load Simples Bot Brain loading rules from a CSV
     brain = SimpleBrain(id='bot-1')
-    brain.load('rules/bot-rules-2.csv')
+    brain.load('rules/bot-rules-gen-chem.csv')
 
     # Kick start the Bot Runner process
     bot = DiscordBot(token=TOKEN, brain=brain, debug=True)
