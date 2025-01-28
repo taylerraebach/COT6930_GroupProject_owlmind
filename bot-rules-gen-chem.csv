@@ -1,0 +1,35 @@
+## Rules for Tayler&AlejandraBot
+# Use Case: Study Companion
+# Domain Knowledge: General Chemistry
+#
+message,response
+*hello*,Hi there! I'm here to help you with General Chemistry concepts and problem-solving.
+*hello*,"Hello! Ask me about chemical reactions, periodic trends, or any General Chemistry topic."
+*hi*,"Hi! Need help with stoichiometry, bonding, or thermodynamics? Let's get started!"
+*hi*,Hello! I'm ready to assist you with any General Chemistry questions you have.
+*hey*,Hey there! Let me know what General Chemistry topic you'd like to explore today.
+*what is molarity*,"Molarity is the concentration of a solution, expressed as moles of solute per liter of solution (mol/L). How can I help further?"
+*balance equation*,"Sure! Provide the chemical equation, and I'll help you balance it step-by-step."
+*periodic trends*,"Periodic trends include atomic radius, ionization energy, electronegativity, and more. Which trend would you like to dive into?"
+*thermodynamics*,"Thermodynamics deals with energy changes in chemical reactions. Would you like to learn about enthalpy, entropy, or Gibbs free energy?"
+*help me*,"I'm here to help! Tell me your General Chemistry question or topic, and I'll guide you through it."
+*what is atomic radius*,Atomic radius is the distance from the nucleus to the outermost electron. It generally decreases across a period and increases down a group.
+*what are isotopes*,Isotopes are atoms of the same element with different numbers of neutrons but the same number of protons. Need examples?
+*define ionic bond*,"An ionic bond forms when electrons are transferred from one atom to another, typically between metals and nonmetals. Want a detailed explanation?"
+*what is covalent bond*,"A covalent bond is formed when two atoms share electrons. Single, double, and triple bonds are examples. Shall we explore further?"
+*explain pH*,"pH measures the acidity or basicity of a solution, calculated as -log[H?]. A pH of 7 is neutral, below 7 is acidic, and above 7 is basic."
+*what is equilibrium*,"Equilibrium occurs when the forward and reverse reactions happen at the same rate, and concentrations remain constant. Need help with examples?"
+*what are acids*,Acids are substances that donate protons (H? ions) in a reaction. Examples include HCl and H?SO?. Want more details?
+*what are bases*,Bases are substances that accept protons or donate OH? ions. Common examples are NaOH and NH?. Shall we dive deeper?
+*what is periodic table*,The periodic table organizes elements by increasing atomic number and similar properties. What aspect would you like to learn about?
+*explain Avogadro's law*,Avogadro's Law states that equal volumes of gases at the same temperature and pressure contain the same number of molecules. Need a problem to solve?
+*what is stoichiometry*,Stoichiometry involves the calculation of reactants and products in chemical reactions using balanced equations. Want to work through an example?
+*explain ideal gas law*,"The ideal gas law is PV = nRT, where P is pressure, V is volume, n is moles, R is the gas constant, and T is temperature. Need a detailed explanation?"
+*what is enthalpy*,Enthalpy (H) is the heat content of a system at constant pressure. It indicates heat absorbed or released in a reaction. Need an example?
+*what are orbitals*,"Orbitals are regions in an atom where electrons are likely to be found. Examples include s, p, d, and f orbitals. Want to explore more?"
+*explain oxidation*,Oxidation is the loss of electrons during a reaction. It often occurs alongside reduction. Need help with redox reactions?
+*what is reduction*,Reduction is the gain of electrons in a chemical reaction. Would you like to see a redox example?
+*what is a catalyst*,A catalyst speeds up a chemical reaction without being consumed. Enzymes are biological examples. Need details?
+*define electrolyte*,An electrolyte is a substance that conducts electricity when dissolved in water by producing ions. Examples include NaCl and KCl. Want to explore this further?
+*what are hydrocarbons*,"Hydrocarbons are organic compounds made of carbon and hydrogen. Types include alkanes, alkenes, and alkynes. Want to learn more?"
+*what is Gibbs free energy*,"Gibbs free energy determines the spontaneity of a reaction. If ?G < 0, the reaction is spontaneous. Shall we calculate one together?"
