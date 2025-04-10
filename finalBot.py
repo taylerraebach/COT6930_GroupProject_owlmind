@@ -137,9 +137,6 @@ if __name__ == '__main__':
     config = dotenv_values(".env")
     TOKEN = config['TOKEN']
     
-    # Load Simples Bot Brain loading rules from a CSV (if needed for rule-based responses)
-    brain = SimpleBrain(id='bot-1')
-    brain.load('rules/bot-rules-gen-chem.csv')
-
     # Run the Discord bot
     bot.run(TOKEN)
+
